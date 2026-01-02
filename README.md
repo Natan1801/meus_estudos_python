@@ -1,2 +1,2 @@
 # meus_estudos_python
-Atividade de python realiazada no curso em video
+Atividade de python realizada no curso em video
